@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bioinformatics and healthcare data analysis projects 
 - 📫 How to reach me: satyendra.kumar1104@outlook.com
 - 😄 Pronouns: he/him  
-- ⚡ I’ve worked on both immunology research and e-commerce A/B testing — science meets strategy!
+- ⚡ I’ve worked on both biomedical research and e-commerce A/B testing projects!
 
 <!---
 Satyendra-Kumar-SK/Satyendra-Kumar-SK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
